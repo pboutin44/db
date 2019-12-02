@@ -1,5 +1,5 @@
 {
-  "user": {
+  "support": {
     "auth": "sqdfsdf",
     "profil": "support",
     "agence": "",
@@ -20,6 +20,12 @@
     "conseiller": {
     "auth": "sqdfsdf",
     "profil": "conseiller",
+    "agence": "",
+    "conseiller": ""
+  },
+  "user": {
+    "auth": "sqdfsdf",
+    "profil": "patron",
     "agence": "",
     "conseiller": ""
   },
