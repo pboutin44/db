@@ -4,5 +4,23 @@
     "profil": "support",
     "agence": "",
     "conseiller": ""
-  }
+  },
+  "patron": {
+    "auth": "sqdfsdf",
+    "profil": "patron",
+    "agence": "",
+    "conseiller": ""
+  },
+  "responsable": {
+    "auth": "sqdfsdf",
+    "profil": "responsable",
+    "agence": "",
+    "conseiller": ""
+  },
+    "conseiller": {
+    "auth": "sqdfsdf",
+    "profil": "conseiller",
+    "agence": "",
+    "conseiller": ""
+  },
 }
