@@ -28,11 +28,5 @@
     "profil": "support",
     "agence": "agence_1",
     "conseiller": "conseiller_1"
-  },
-  "user": {
-    "auth": "sqdfsdf",
-    "profil": "assistant",
-    "agence": "agence_1",
-    "conseiller": "conseiller_1"
   }
 }
