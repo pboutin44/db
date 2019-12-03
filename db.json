@@ -8,25 +8,25 @@
   "patron": {
     "auth": "sqdfsdf",
     "profil": "patron",
-    "agence": "",
-    "conseiller": ""
+    "agence": "agence_1",
+    "conseiller": "conseiller_1"
   },
   "responsable": {
     "auth": "sqdfsdf",
     "profil": "responsable",
-    "agence": "",
-    "conseiller": ""
+    "agence": "agence_1",
+    "conseiller": "conseiller_1"
   },
     "conseiller": {
     "auth": "sqdfsdf",
     "profil": "conseiller",
-    "agence": "",
-    "conseiller": ""
+    "agence": "agence_1",
+    "conseiller": "conseiller_1"
   },
   "user": {
     "auth": "sqdfsdf",
     "profil": "support",
-    "agence": "",
-    "conseiller": ""
+    "agence": "agence_1",
+    "conseiller": "conseiller_1"
   }
 }
