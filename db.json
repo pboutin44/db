@@ -25,7 +25,7 @@
   },
   "assistant": {
     "auth": "sqdfsdf",
-    "profil": "support",
+    "profil": "assistant",
     "agence": "agence_1",
     "conseiller": "conseiller_1"
   }
