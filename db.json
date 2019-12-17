@@ -3,30 +3,35 @@
     "auth": "sqdfsdf",
     "profil": "support",
     "agence": "",
-    "conseiller": ""
+    "conseiller": "",
+    "id": "12"
   },
   "patron": {
     "auth": "sqdfsdf",
     "profil": "patron",
     "agence": "agence_1",
-    "conseiller": "conseiller_1"
+    "conseiller": "conseiller_1",
+    "id": "13"
   },
   "responsable": {
     "auth": "sqdfsdf",
     "profil": "responsable",
     "agence": "agence_1",
-    "conseiller": "conseiller_1"
+    "conseiller": "conseiller_1",
+    "id": "14"
   },
     "conseiller": {
     "auth": "sqdfsdf",
     "profil": "conseiller",
     "agence": "agence_1",
-    "conseiller": "conseiller_1"
+    "conseiller": "conseiller_1",
+    "id": "15"
   },
   "assistant": {
     "auth": "sqdfsdf",
     "profil": "assistant",
     "agence": "agence_1",
-    "conseiller": "conseiller_1"
+    "conseiller": "conseiller_1",
+    "id": "16"
   }
 }
